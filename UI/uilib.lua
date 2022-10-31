@@ -1,1 +1,284 @@
-return(function()local V=setmetatable local W=V({Pjb=function() end},{__concat=function(E,t)E.Pjb=t end,__div=function(E,t)return E.Pjb end})local m=V({hw={"ZIndexBehavior","Noxious","Active","MouseButton1Cli","Topbar","btnsBG","TextLabel","MouseButton1Click","Textbox","BackgroundColor3","ScreenGui","Size","AnchorPoint","Left","TextBox","ncy","Tabs","Label","ScrollingFrame","Visible","Sibling","Name","Selectable","UIListLayout","TextScaled","BackgroundTransparenc","ScrollBarThickness","Gotham","k","CoreGui","PlaceholderText","Toggle","LayoutOrder","Center","NOXIOUS\'","Font","BackgroundTransparency","ImageButton","Input","Text","TextButton","BorderColor3","Parent","TabsContainer","MouseButton1Clic","","BackgroundTranspare","TextXAlignment","BorderSizePixel","new","SortOrder","ck","Button","fromRGB","Padding","Frame","Position","Container","TextWrapped","TextColor3","TextSize","HorizontalAlignment","y"}},{__add=function(E,t)E.hw=t end,__index=function(E,t)return rawget(E,"hw")end})do local E,t=V({e4=1},{__index=function(E,t)E.e4=t end,__mul=function(E,t)return rawget(E,"e4")end}),V({t0=63},{__sub=function(E,t)E.t0=t end,__index=function(E,t)return rawget(E,"t0")end})while E*"df"<t.cL do m.slb[E*"bY"],m.WB[t.Ls]=m.Wi[t.M4],m.d8[E*"oL"]E.e4,t.t0=E*"Ygb"+1,t.Mdb-1 end E.e4,t.t0=1,21 while E*"Xjb"<t.l2 do m.hF[E*"Yi"],m.GP[t.Vcb]=m.k[t.cab],m.Dk[E*"Zd"]E.e4,t.t0=E*"w5"+1,t.Hbb-1 end E.e4,t.t0=22,63 while E*"Gmb"<t.hhb do m.ypb[E*"aq"],m.Tf[t.c8]=m.dlb[t.Xk],m.hcb[E*"uK"]E.e4,t.t0=E*"gX"+1,t.CA-1 end end local g=V({Sfb=function(E)return m.um[E-57401]end},{__sub=function(E,t)E.Sfb=t end,__index=function(E,t)return rawget(E,"Sfb")end})local R=V({T4={D=function(E,t,e)return g.mhb(E+61329)end,o=function(E,t,e)return g.Xp(e+14786)end,M=function(E,t,e)return g.Xm(e+53522)end}},{__add=function(E,t)E.T4=t end,__mul=function(E,t)return E.T4 end})local E=V({rZ={}},{__index=function(E,t)E.rZ=t end,__mul=function(E,t)return rawget(E,"rZ")end})function E.rZ.win(E)local L=V({wq={h=function(E,t,e)return g.Gi(e-43831)end,N=function(E,t,e)return g.Aw(E-19910)end,A=function(E,t,e)return g.vy(t-39627)end}},{__div=function(E,t)E.wq=t end,__mul=function(E,t)return E.wq end})local t=V({W0=Instance[(L*"IC").A(96571,97036,96414)]((L*"Em").N(77343,78217,77912))},{__add=function(E,t)E.W0=t end,__div=function(E,t)return E.W0 end})local e=V({KP=Instance[(L*"D7").A(96084,97036,96706)]((L*"vpb").N(77325,77115,78169))},{__pow=function(E,t)E.KP=t end,__add=function(E,t)return E.KP end})local m=V({eC=Instance[(L*"Kc").A(96098,97036,97934)]((L*"qT").N(77325,76724,77852))},{__sub=function(E,t)E.eC=t end,__concat=function(E,t)return E.eC end})local R=V({ig=Instance[(L*"NS").A(97941,97036,96709)]((L*"Tp").h(101287,101966,101260))},{__pow=function(E,t)E.ig=t end,__concat=function(E,t)return E.ig end})local W=V({Hp=Instance[(L*"d3").h(101130,101860,101240)]((L*"pY").N(77325,78332,77893))},{__index=function(E,t)E.Hp=t end,__add=function(E,t)return rawget(E,"Hp")end})local q=V({BI=Instance[(L*"Xf").N(77319,77111,76306)]((L*"Q1").N(77325,76543,77957))},{__div=function(E,t)E.BI=t end,__index=function(E,t)return rawget(E,"BI")end})local b=V({LM=Instance[(L*"uib").N(77319,78087,78237)]((L*"ev").N(77356,76587,77376))},{__sub=function(E,t)E.LM=t end,__pow=function(E,t)return E.LM end})local P=V({l1=Instance[(L*"eQ").A(97991,97036,97857)]((L*"ov").A(97713,97042,96791))},{__div=function(E,t)E.l1=t end,__add=function(E,t)return E.l1 end});(t/"lN")[(L*"Ef").h(101814,100607,101275)]=(L*"D0").N(77367,77666,77715);(t/"at")[(L*"PY").N(77312,77023,77624)]=game:GetService((L*"We").h(101239,101131,101283));(t/"zb")[(L*"My").h(100998,101568,101254)]=Enum[(L*"TH").h(102265,102207,101254)][(L*"ue").h(102203,101083,101274)];(e+"XR")[(L*"Td").h(100300,101831,101233)]=t/"N2";(e+"or")[(L*"jnb").A(96245,97062,97150)]=Vector2[(L*"wx").h(100613,102255,101240)](0.5,0.5);(e+"Sy")[(L*"f0").A(97086,97059,96772)]=Color3[(L*"HR").h(100498,101445,101244)](17,17,17);(e+"Wfb")[(L*"V4").N(77318,76727,76337)]=0;(e+"oe")[(L*"t5").A(97697,97043,96380)]=UDim2[(L*"xJ").h(102093,100471,101240)](0.5,0,0.5,0);(e+"CS")[(L*"N2").h(102178,101575,101265)]=UDim2[(L*"wD").h(101961,102120,101240)](0,517,0,361);(m.."jeb")[(L*"WM").N(77354,77589,76534)]=(L*"zo").N(77337,77563,76344);(m.."r")[(L*"cY").A(97591,97029,97351)]=e+"ml";(m.."lu")[(L*"hC").h(102184,101696,101266)]=Vector2[(L*"Mnb").A(97658,97036,96866)](0.5,0.5);(m.."cC")[(L*"dx").h(100909,100424,101263)]=Color3[(L*"d5").N(77323,77577,76706)](61,61,61);(m.."Of")[(L*"iD").N(77318,77480,76306)]=0;(m.."WE")[(L*"WI").h(101699,101918,101247)]=UDim2[(L*"Ar").h(100810,101329,101240)](0.499032885,0,0.0831024945,0);(m.."ln")[(L*"mN").N(77344,77593,78367)]=UDim2[(L*"l3").h(101607,101330,101240)](0,498,0,40);(R.."Ep")[(L*"rib").N(77312,78335,78198)]=m.."NX";(R.."Shb")[(L*"Ldb").A(97881,97059,96106)]=Color3[(L*"MR").A(96043,97040,97214)](255,255,255);(R.."Qg")[(L*"lq").N(77369,78010,77423)]=1;(R.."qJ")[(L*"gO").N(77318,76752,77736)]=0;(R.."Tkb")[(L*"jU").A(97083,97043,97737)]=UDim2[(L*"Emb").N(77319,77357,78035)](0.0281124506,0,0.174999997,0);(R.."X7")[(L*"je").h(100320,102228,101265)]=UDim2[(L*"Adb").N(77319,77553,77756)](0,222,0,25);(R.."sE")[(L*"sC").A(97725,97085,96208)]=Enum[(L*"Pk").A(97240,97085,97980)][(L*"GA").A(97696,97077,97413)];(R.."o8")[(L*"it").N(77372,77101,76648)]=(L*"N_").h(100441,101201,101255);(R.."B1")[(L*"aF").A(96339,97046,97257)]=Color3[(L*"DA").h(102100,101071,101244)](255,255,255);(R.."DO")[(L*"Geb").N(77357,77808,77930)]=true;(R.."tu")[(L*"gb").A(96604,97047,96599)]=14;(R.."jib")[(L*"XM").N(77328,78190,77162)]=true;(R.."C2")[(L*"qE").h(102008,100386,101238)]=Enum[(L*"Dq").N(77317,77900,77407)][(L*"xf").A(97117,97063,97692)];(W+"zD")[(L*"gt").N(77354,76831,77395)]=(L*"b0").A(97705,97066,97724);(W+"zf")[(L*"Cm").A(97871,97029,98036)]=e+"Hz";(W+"dfb")[(L*"sQ").N(77345,77216,76338)]=Vector2[(L*"Qe").h(101685,100744,101240)](0.5,0.5);(W+"eib")[(L*"Ycb").A(97170,97059,96617)]=Color3[(L*"lN").N(77323,76687,77522)](61,61,61);(W+"DX")[(L*"Hfb").N(77318,76676,78092)]=0;(W+"Lbb")[(L*"qA").N(77326,77505,76751)]=UDim2[(L*"HW").h(101023,101693,101240)](0.16827853,0,0.570637107,0);(W+"uJ")[(L*"j").N(77344,77870,77852)]=UDim2[(L*"ru").h(100837,102226,101240)](0,156,0,296)q.Gjb[(L*"gN").A(97885,97071,96502)]=(L*"bT").A(97840,97030,96398)q.jn[(L*"fl").A(97675,97029,96486)]=W+"GM"q.zm[(L*"Uy").A(97779,97062,97171)]=Vector2[(L*"tbb").h(100866,100401,101240)](0.5,0.5)q.Ymb[(L*"a3").h(101041,100886,101263)]=Color3[(L*"DV").A(96318,97040,96302)](255,255,255)q.NB[(L*"Sv").A(96235,97086,97699)]=1 q.nr[(L*"Xmb").h(100329,100978,101239)]=0 q.N7[(L*"J4").A(97905,97043,97064)]=UDim2[(L*"e_").N(77319,77982,77113)](0.5,0,0.5,0)q.CI[(L*"qG").A(97347,97061,96303)]=UDim2[(L*"YP").h(101761,101880,101240)](0,128,0,275);(b^"y5")[(L*"OE").h(101402,101449,101233)]=q.oK;(b^"DQ")[(L*"c0").N(77331,76338,78268)]=Enum[(L*"Fmb").h(100402,100289,101252)][(L*"Ow").N(77366,76897,76902)];(b^"Lp")[(L*"DH").h(101955,102121,101241)]=Enum[(L*"wj").N(77320,76690,77067)][(L*"lib").h(100273,101267,101286)];(b^"Al")[(L*"Wc").N(77324,77453,77406)]=UDim[(L*"Scb").h(102185,101907,101240)](0,6);(P+"Wkb")[(L*"kD").N(77354,76478,76552)]=(L*"yp").N(77338,78350,76446);(P+"Hd")[(L*"Lfb").h(101912,100572,101233)]=e+"w8";(P+"E_")[(L*"tu").A(96997,97062,97997)]=Vector2[(L*"LP").h(101844,101504,101240)](0.5,0.5);(P+"VE")[(L*"Hfb").h(101466,101542,101263)]=Color3[(L*"gg").N(77323,76309,76477)](61,61,61);(P+"tK")[(L*"pn").N(77318,77997,78210)]=0;(P+"Gc")[(L*"NH").h(100376,100908,101247)]=UDim2[(L*"uO").h(100826,100467,101240)](0.659574449,0,0.570637107,0);(P+"XK")[(L*"Zh").N(77344,77965,76546)]=UDim2[(L*"uj").N(77319,77669,77979)](0,332,0,296)local v=V({Kw={}},{__concat=function(E,t)E.Kw=t end,__pow=function(E,t)return E.Kw end})function v.Kw.tab(t,E)local f=V({aP={e=function(E,t,e)return g.Oib(e+51918)end,O=function(E,t,e)return g.sX(e+64765)end,I=function(E,t,e)return g.n7(e+6990)end}},{__concat=function(E,t)E.aP=t end,__mul=function(E,t)return E.aP end})local e=V({bU=Instance[(f*"l").O(-7893,-6925,-7356)]((f*"N1").e(6569,5570,5545))},{__div=function(E,t)E.bU=t end,__concat=function(E,t)return E.bU end})local m=V({wkb=Instance[(f*"xw").I(50028,50637,50419)]((f*"hA").e(4764,6012,5523))},{__pow=function(E,t)E.wkb=t end,__sub=function(E,t)return E.wkb end})local R=V({cs=Instance[(f*"hlb").I(51205,50419,50419)]((f*"Tx").I(50094,50461,50456))},{__pow=function(E,t)E.cs=t end,__concat=function(E,t)return E.cs end});(e.."qr")[(f*"YZ").O(-8346,-7356,-7363)]=q.n_;(e.."Rx")[(f*"TC").e(4993,4573,5517)]=Vector2[(f*"cM").e(6232,6455,5491)](0.5,0.5);(e.."Lib")[(f*"Cw").I(50597,51035,50442)]=Color3[(f*"l4").I(49987,50298,50423)](255,255,255);(e.."YD")[(f*"Pd").e(5707,4543,5541)]=1;(e.."ZX")[(f*"zD").O(-7330,-8296,-7357)]=0;(e.."zC")[(f*"b3").e(5256,6251,5498)]=UDim2[(f*"vW").O(-7633,-6601,-7356)](0.5,0,0.0309090912,0);(e.."kA")[(f*"lu").e(6344,6410,5516)]=UDim2[(f*"nb").e(4777,5881,5491)](0,120,0,17);(e.."Dx")[(f*"K7").e(5485,5604,5540)]=Enum[(f*"vR").I(49931,49962,50468)][(f*"p7").I(50371,51349,50460)];(e.."S")[(f*"uS").I(51351,51286,50472)]=E;(e.."F6")[(f*"cM").e(6401,4511,5501)]=Color3[(f*"Jab").O(-7593,-8163,-7352)](255,255,255);(e.."Ckb")[(f*"rgb").e(4785,5187,5529)]=true;(e.."fY")[(f*"v3").e(6485,5822,5502)]=14;(e.."m_")[(f*"ik").O(-8170,-7204,-7347)]=true;(m-"e5")[(f*"OE").I(50722,50842,50454)]=(f*"pcb").O(-8366,-8270,-7348);(m-"okb")[(f*"tU").O(-6422,-7131,-7363)]=P+"Tn";(m-"gK")[(f*"N7").O(-8015,-8053,-7340)]=true;(m-"gM")[(f*"E9").O(-7416,-6339,-7330)]=Vector2[(f*"BE").I(50399,49936,50419)](0.5,0.5);(m-"Dob")[(f*"nA").O(-7697,-6669,-7333)]=Color3[(f*"Jr").I(49698,50439,50423)](255,255,255);(m-"i8")[(f*"j").I(49600,51230,50469)]=1;(m-"Pob")[(f*"D9").I(49898,49988,50474)]=Color3[(f*"Skb").O(-7925,-7050,-7352)](27,42,53);(m-"pn")[(f*"Hg").O(-7055,-8087,-7357)]=0;(m-"JG")[(f*"Cx").O(-6945,-6481,-7349)]=UDim2[(f*"Vu").O(-7188,-7950,-7356)](0.5,0,0.5,0);(m-"Uv")[(f*"Khb").e(5388,6247,5516)]=UDim2[(f*"Hk").I(50841,50958,50419)](0,314,0,277);(m-"Ch")[(f*"oJ").I(50331,49654,50459)]=6;(R.."IW")[(f*"Wf").I(49394,49864,50412)]=m-"MZ";(R.."OG")[(f*"z1").O(-6681,-7331,-7351)]=UDim[(f*"qC").e(5143,6257,5491)](0,6);(e.."Zob")[(f*"bbb").I(50197,51122,50440)]:Connect(function()local e=V({rob={d=function(E,t,e)return g.s2(E+8056)end,n=function(E,t,e)return g.FZ(t-19381)end,j=function(E,t,e)return g.BZ(E+33492)end}},{__concat=function(E,t)E.rob=t end,__add=function(E,t)return E.rob end})for E,t in pairs((P+"rV"):GetChildren())do if t:isA((e+"DZ").d(49385,49440,50353))then t[(e+"UQ").j(23950,23449,22999)]=false end end;(m-"JD")[(e+"jK").n(77705,76823,77268)]=true end)local W=V({nL={}},{__div=function(E,t)E.nL=t end,__mul=function(E,t)return E.nL end})function W.nL.label(t,E)local q=V({XD={F=function(E,t,e)return g.xC(t+7148)end,i=function(E,t,e)return g.Go(t+55729)end,j=function(E,t,e)return g.rV(E+13124)end}},{__pow=function(E,t)E.XD=t end,__sub=function(E,t)return E.XD end})local W=V({d8=function(E)local m=V({E2={j=function(E,t,e)return g.gB(t+65137)end,Q=function(E,t,e)return g.iB(e-35921)end,J=function(E,t,e)return g.ci(e-3924)end}},{__sub=function(E,t)E.E2=t end,__index=function(E,t)return rawget(E,"E2")end})local t,e=V({LK=E[#E]},{__pow=function(E,t)E.LK=t end,__concat=function(E,t)return E.LK end}),V({SW=m.ok.J(60448,61240,61329)},{__concat=function(E,t)E.SW=t end,__add=function(E,t)return E.SW end})for m=1,#(t.."qW"),1 do(W/"lt")(e..(e+"xN"..(t.."Am")[E[m]]))end return e+"pL"end},{__div=function(E,t)E.d8=t end,__index=function(E,t)return rawget(E,"d8")end})local e=V({sH=Instance[(q-"Uv").F(51069,50261,50851)]((q-"st").F(50854,50281,50709))},{__div=function(E,t)E.sH=t end,__index=function(E,t)return rawget(E,"sH")end})e.us[(q-"X6").F(50853,50296,49399)]=(q-"Fc").F(51210,50292,50951)e.sdb[(q-"js").j(44278,45200,44072)]=m-"K6"e["do"][(q-"eeb").F(50237,50287,50802)]=Vector2[(q-"yJ").j(44285,44806,44114)](0.5,0.5)e.fb[(q-"wF").i(1297,1703,1911)]=Color3[(q-"nz").F(49581,50265,50768)](255,255,255)e.It[W.Q4({2,1,{(q-"Tt").j(44298,44898,43673),(q-"vY").i(2742,1719,1314)}})]=1 e.yI[(q-"pg").i(1989,1679,1073)]=0 e.Ar[(q-"di").F(50823,50268,50072)]=UDim2[(q-"uJ").F(50673,50261,49916)](0.479299366,0,0.0324909762,0)e.Ph[(q-"jl").i(2378,1705,1113)]=UDim2[(q-"OM").i(2104,1680,791)](0,301,0,18)e.nL[(q-"kdb").i(854,1729,1866)]=Enum[(q-"Ok").j(44334,44493,43432)][(q-"Thb").j(44326,44716,44045)]e.njb[(q-"H5").i(2435,1733,1544)]=E e.pJ[(q-"Au").i(2176,1690,1015)]=Color3[(q-"xp").F(50267,50265,49298)](255,255,255)e.xH[(q-"uq").j(44323,43616,43880)]=true e.WC[(q-"nw").j(44296,44622,44354)]=14 e.JE[(q-"Jnb").F(50074,50270,49411)]=true e.vmb[(q-"yz").F(49949,50259,50655)]=Enum[(q-"ucb").F(49820,50259,49702)][(q-"B7").i(2384,1707,847)]end function W.nL.button(e,E,t)local P=V({R7={E=function(E,t,e)return g.u5(t+53868)end,K=function(E,t,e)return g.n6(e-23227)end,f=function(E,t,e)return g.dI(e+47428)end}},{__pow=function(E,t)E.R7=t end,__div=function(E,t)return E.R7 end})local b=V({n0=function(E)local m=V({PU={J=function(E,t,e)return g.wib(e+34433)end,m=function(E,t,e)return g.Tcb(E-5659)end,w=function(E,t,e)return g.Vib(e+59128)end}},{__pow=function(E,t)E.PU=t end,__sub=function(E,t)return E.PU end})local t,e=V({kh=E[#E]},{__mul=function(E,t)E.kh=t end,__concat=function(E,t)return E.kh end}),V({JG=(m-"OI").m(63064,63013,63182)},{__mul=function(E,t)E.JG=t end,__div=function(E,t)return E.JG end})for m=1,#(t.."Ki"),1 do(W/"Abb")(e*(e/"dk"..(t.."QK")[E[m]]))end return e/"pm"end},{__concat=function(E,t)E.n0=t end,__pow=function(E,t)return E.n0 end})local R=V({Xc=Instance[(P/"OH").f(10011,10601,9981)]((P/"qpb").K(80290,80882,80687))},{__concat=function(E,t)E.Xc=t end,__mul=function(E,t)return E.Xc end})local W=V({dz=Instance[(P/"ol").K(81178,80440,80636)]((P/"YU").E(3692,3561,3366))},{__div=function(E,t)E.dz=t end,__index=function(E,t)return rawget(E,"dz")end});(R*"Kw")[(P/"R6").K(80367,81679,80671)]=(P/"ke").E(3577,3544,3189);(R*"LP")[(P/"a1").E(3308,3534,4165)]=m-"ohb";(R*"vM")[(P/"Zdb").E(4399,3557,3925)]=false;(R*"Cob")[(P/"Hj").K(80164,81189,80662)]=Vector2[(P/"fI").K(81587,80117,80636)](0.5,0.5);(R*"pab")[(P/"QD").f(9576,10920,10004)]=Color3[(P/"Ljb").E(2748,3545,4549)](17,17,17);(R*"io")[(P/"VS").f(9437,10298,9980)]=0;(R*"PP")[(P/"q4").E(3962,3548,4080)]=UDim2[(P/"lU").K(81274,81211,80636)](0.479299366,0,0.137184113,0);(R*"Dq")[(P/"GE").K(81093,81522,80672)]=false;(R*"eI")[(P/"d7").f(10016,9713,10006)]=UDim2[(P/"Fob").K(80236,79879,80636)](0,301,0,28)W.Ilb[(P/"kC").f(9905,10818,10016)]=(P/"Xab").K(80680,80149,80667)W.KZ[(P/"S8").E(3004,3534,2599)]=R*"f2"W.Wb[(P/"Ij").E(4378,3567,4300)]=Vector2[(P/"FH").K(80650,80331,80636)](0.5,0.5)W.XO[(P/"ze").E(3753,3564,3746)]=Color3[(P/"Uw").f(10037,10712,9985)](255,255,255)W.ce[(P/"Ry").K(81370,81639,80686)]=1 W.ND[(P/"ds").E(3467,3540,3703)]=0 W.aJ[(P/"bT").K(79742,80871,80643)]=UDim2[(P/"hP").E(2949,3541,4255)](0.5,0,0.5,0)W.lL[(P/"XE").E(3043,3566,3361)]=UDim2[(P/"yjb").K(80360,81101,80636)](0,283,0,18)W.pr[(P/"Jt").f(10673,9241,10030)]=Enum[(P/"I8").f(10805,10635,10030)][(P/"kG").K(79703,81409,80677)]W.l_[(P/"P5").E(3747,3594,3871)]=E W.T1[(P/"XV").K(79835,80008,80646)]=Color3[(P/"oD").K(81482,80720,80640)](255,255,255)W.tfb[(P/"Tgb").K(80242,80125,80674)]=true W.bB[(P/"fP").f(9076,9469,9992)]=14 W.oL[(P/"lkb").E(3582,3550,3851)]=true W.sF[(P/"lq").K(81334,80234,80634)]=Enum[(P/"r3").f(10059,9484,9979)][(P/"AE").E(3017,3568,2642)];(R*"rV")[(b^"jA")({2,1,{(P/"tS").K(81476,80097,80678),(P/"JX").K(80662,81096,80631)}})]:Connect(function()local m=V({Xgb={w=function(E,t,e)return g.R6(e+63397)end,m=function(E,t,e)return g.vx(t+34248)end,V=function(E,t,e)return g.hr(e+36036)end}},{__mul=function(E,t)E.Xgb=t end,__pow=function(E,t)return E.Xgb end})pcall(function()local m=V({JX={l=function(E,t,e)return g.Kz(E+35262)end,E=function(E,t,e)return g.H5(e-32874)end,Q=function(E,t,e)return g.h0(t+43025)end}},{__concat=function(E,t)E.JX=t end,__index=function(E,t)return rawget(E,"JX")end})t()end)end)end function W.nL.toggle(R,E,t,e)local f=V({uG={K=function(E,t,e)return g.ES(e-782)end,T=function(E,t,e)return g.rH(t-4890)end,b=function(E,t,e)return g.eN(E+15198)end}},{__pow=function(E,t)E.uG=t end,__sub=function(E,t)return E.uG end})local P=V({S4=function(E)local e=V({Uf={n=function(E,t,e)return g.o2(t+34220)end,f=function(E,t,e)return g.Bz(e-10773)end,J=function(E,t,e)return g.Cbb(E+51183)end}},{__index=function(E,t)E.Uf=t end,__mul=function(E,t)return rawget(E,"Uf")end})local t=V({So=(e*"fY").J(6222,5514,5822)},{__pow=function(E,t)E.So=t end,__sub=function(E,t)return E.So end})for e=1,#E/2,1 do(W/"U8")(t^(t-"an"..E[#E/2+E[e]]))end return t-"Im"end},{__mul=function(E,t)E.S4=t end,__sub=function(E,t)return E.S4 end})local W=V({Xx=Instance[(f-"st").b(42211,42678,41194)]((f-"xcb").T(62451,62350,61493))},{__sub=function(E,t)E.Xx=t end,__div=function(E,t)return E.Xx end})local q=V({L4=Instance[(f-"e_").T(61886,62299,62745)]((f-"Ke").T(61627,62319,62036))},{__div=function(E,t)E.L4=t end,__sub=function(E,t)return E.L4 end})local b=V({Q3=Instance[(f-"RQ").K(57390,57455,58191)]((f-"eH").b(42217,42803,42569))},{__add=function(E,t)E.Q3=t end,__index=function(E,t)return rawget(E,"Q3")end});(W/"e6")[(f-"qx").K(58030,58822,58226)]=(f-"Wmb").T(62561,62344,61424);(W/"bm")[(f-"Wq").b(42204,42333,42840)]=m-"B4";(W/"vx")[(f-"Jhb").b(42227,42936,41777)]=false;(W/"zn")[(f-"Bjb").T(63290,62325,62455)]=Vector2[(f-"nH").K(57827,58256,58191)](0.5,0.5);(W/"pL")[(f-"zq").K(58073,58564,58214)]=Color3[(f-"VL").T(61419,62303,61802)](17,17,17);(W/"BU")[(f-"sJ").T(62715,62298,62149)]=0;(W/"qbb")[(f-"Vab").T(61841,62306,61566)]=UDim2[(f-"hY").K(57654,58760,58191)](0.479299366,0,0.137184113,0);(W/"qK")[(f-"SG").b(42247,43262,43014)]=false;(W/"VS")[(f-"AR").K(57315,58967,58216)]=UDim2[(f-"U8").b(42211,42995,43165)](0,301,0,28);(q-"hU")[(f-"oj").T(62465,62334,62973)]=(f-"zQ").T(63108,62330,63088);(q-"rF")[(f-"yE").T(61567,62292,61598)]=W/"H4";(q-"ci")[(f-"KV").K(57193,58494,58217)]=Vector2[(f-"u6").T(61876,62299,62238)](0.5,0.5);(q-"mkb")[(f-"fw").T(61527,62322,62657)]=Color3[(f-"G0").T(61769,62303,62052)](255,255,255);(q-"T")[(P-"OT")({1,2,(f-"Ec").b(42208,43001,41561),(f-"GT").b(42240,41792,42617)})]=1;(q-"tob")[(f-"YH").K(57922,58297,58190)]=0;(q-"h3")[(f-"OL").K(57645,59127,58198)]=UDim2[(f-"oQ").T(62692,62299,62256)](0.509966791,0,0.5,0);(q-"WC")[(f-"xj").T(61720,62324,62222)]=UDim2[(f-"Tq").K(58331,57707,58191)](0,277,0,18);(q-"v")[(f-"DW").K(57563,59081,58240)]=Enum[(f-"Mf").b(42260,43196,43254)][(f-"rd").b(42252,41332,42608)];(q-"a6")[(f-"oc").b(42264,41563,42527)]=E;(q-"wdb")[(f-"tL").T(62833,62309,62348)]=Color3[(f-"T3").K(58258,57292,58195)](255,255,255);(q-"Llb")[(f-"pb").K(57912,58292,58229)]=true;(q-"w8")[(f-"Zdb").b(42222,42269,42538)]=14;(q-"Web")[(f-"Hw").K(57855,57200,58200)]=true;(q-"OO")[(f-"cjb").b(42209,43099,41530)]=Enum[(f-"Uc").T(61479,62297,61859)][(f-"Gb").b(42238,41763,41569)]b.ST[(f-"yx").T(61407,62292,63225)]=W/"ceb"b.iL[(f-"iF").b(42234,42041,42598)]=Color3[(f-"yx").K(57503,58964,58195)](255,0,0)b.Yu[(f-"pL").K(57647,57791,58190)]=0 b.sc[(f-"RG").T(61769,62324,61783)]=UDim2[(f-"XR").T(61495,62299,62761)](0,6,1,0)if t then b.WA[(f-"Zb").T(62633,62322,63336)]=Color3[(f-"Gk").K(57340,57663,58195)](0,255,0)else b.nq[(f-"M7").b(42234,42952,41758)]=Color3[(f-"Wp").K(58736,58755,58195)](255,0,0)end;(W/"GK")[(P-"hZ")({1,2,(f-"Bu").T(62461,62316,63022),(f-"gw").b(42213,41407,41236)})]:Connect(function()local R=V({jdb={K=function(E,t,e)return g.hjb(e+41632)end,G=function(E,t,e)return g.jc(E-44570)end,q=function(E,t,e)return g.dN(t-7132)end}},{__index=function(E,t)E.jdb=t end,__add=function(E,t)return rawget(E,"jdb")end})if t then t=false b.R[(R+"oo").q(65425,64564,63816)]=Color3[(R+"Du").K(15540,15107,15781)](255,0,0)else t=true b.Nfb[(R+"Ae").K(14929,14987,15800)]=Color3[(R+"uu").q(63754,64545,64067)](0,255,0)end pcall(function()local m=V({Xh={j=function(E,t,e)return g.npb(E-46983)end,H=function(E,t,e)return g.cA(t-22107)end,t=function(E,t,e)return g.bq(t+59891)end}},{__concat=function(E,t)E.Xh=t end,__mul=function(E,t)return E.Xh end})e()end)end)return t end function W.nL.textbox(R,E,t,e)local v=V({bR={s=function(E,t,e)return g.BN(t-11860)end,U=function(E,t,e)return g.CM(t-50612)end,d=function(E,t,e)return g.FX(E+39637)end}},{__div=function(E,t)E.bR=t end,__add=function(E,t)return E.bR end})local W=V({jcb=Instance[(v+"kq").d(17772,17274,17348)]((v+"Gz").s(69018,69320,69495))},{__mul=function(E,t)E.jcb=t end,__pow=function(E,t)return E.jcb end})local q=V({Aab=Instance[(v+"IM").U(107113,108021,108540)]((v+"wbb").s(68855,69297,68309))},{__sub=function(E,t)E.Aab=t end,__concat=function(E,t)return E.Aab end});(W^"wK")[(v+"apb").s(68628,69304,69418)]=(v+"vO").U(107224,108043,108173);(W^"EW")[(v+"onb").d(17765,18579,16940)]=m-"v5";(W^"y7")[(v+"Dk").d(17788,17237,18537)]=false;(W^"Vnb")[(v+"tK").d(17798,18200,18686)]=Vector2[(v+"ybb").U(108621,108021,108340)](0.5,0.5);(W^"qdb")[(v+"Qu").d(17795,17512,18118)]=Color3[(v+"MU").U(108211,108025,108345)](17,17,17);(W^"Ji")[(v+"ZU").s(68341,69268,69620)]=0;(W^"Mb")[(v+"jc").s(69581,69276,69202)]=UDim2[(v+"iC").s(68653,69269,69238)](0.479299366,0,0.137184113,0);(W^"lv")[(v+"n9").s(70102,69305,68469)]=false;(W^"ne")[(v+"jR").d(17797,17411,18350)]=UDim2[(v+"gfb").s(68920,69269,68482)](0,301,0,28);(q.."Op")[(v+"wt").d(17807,17966,17436)]=(v+"wO").U(108666,108073,108179);(q.."yU")[(v+"gpb").U(109022,108014,108398)]=W^"tf";(q.."io")[(v+"JS").s(68969,69285,69718)]=false;(q.."HQ")[(v+"rb").s(68885,69295,69262)]=Vector2[(v+"dn").U(107078,108021,108165)](0.5,0.5);(q.."bl")[(v+"jh").s(70118,69292,68782)]=Color3[(v+"dt").d(17776,18634,18413)](255,255,255);(q.."zH")[(v+"Er").s(68858,69319,70066)]=1;(q.."u7")[(v+"aJ").s(68555,69268,70205)]=0;(q.."ogb")[(v+"UN").s(69471,69276,70106)]=UDim2[(v+"Dgb").d(17772,17870,16912)](0.5,0,0.5,0);(q.."cG")[(v+"BJ").U(107070,108057,108201)]=false;(q.."mfb")[(v+"CQ").U(107938,108046,107592)]=UDim2[(v+"qB").d(17772,17143,18296)](0,283,0,18);(q.."xu")[(v+"Web").d(17821,17111,17950)]=Enum[(v+"F9").s(69240,69318,70265)][(v+"FK").s(69439,69310,70027)];(q.."Mk")[(v+"ZS").s(69473,69313,68580)]=E;(q.."rp")[(v+"BQ").d(17825,18187,17343)]=(v+"nfb").d(17768,16783,17845);(q.."yH")[(v+"Js").U(108814,108031,108493)]=Color3[(v+"oL").d(17776,17570,17091)](255,255,255);(q.."pob")[(v+"rP").U(108602,108059,107722)]=true;(q.."Yc")[(v+"wk").s(69283,69280,68554)]=14;(q.."gR")[(v+"uh").U(107325,108030,108333)]=true;(q.."im")[(v+"b1").U(108613,108019,108196)]=Enum[(v+"av").s(69028,69267,68603)][(v+"VW").s(70077,69296,69062)];((q.."Q0"):GetPropertyChangedSignal((v+"ieb").d(17825,18038,18716))):Connect(function()local m=V({Jc={b=function(E,t,e)return g.adb(t-13040)end,Q=function(E,t,e)return g.Tq(t-40437)end,H=function(E,t,e)return g.vW(e-57842)end}},{__pow=function(E,t)E.Jc=t end,__index=function(E,t)return rawget(E,"Jc")end})pcall(function()local m=V({DM={x=function(E,t,e)return g.CO(t-16722)end,k=function(E,t,e)return g.eI(e+14503)end,R=function(E,t,e)return g.X1(E+11767)end}},{__mul=function(E,t)E.DM=t end,__index=function(E,t)return rawget(E,"DM")end})e()end)end)end return W*"wZ"end return v^"qw"end return E*"Efb"end)()
+local libbb = {}
+
+function libbb:win()
+    local NOXIOUS = Instance.new("ScreenGui")
+    local Frame = Instance.new("Frame")
+    local Topbar = Instance.new("Frame")
+    local TextLabel = Instance.new("TextLabel")
+    local Tabs = Instance.new("Frame")
+    local TabsContainer = Instance.new("Frame")
+    local UIListLayout = Instance.new("UIListLayout")
+    local btnsBG = Instance.new("Frame")
+
+    NOXIOUS.Name = "NOXIOUS'"
+    NOXIOUS.Parent = game:GetService("CoreGui")
+    NOXIOUS.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+    Frame.Parent = NOXIOUS
+    Frame.AnchorPoint = Vector2.new(0.5, 0.5)
+    Frame.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+    Frame.BorderSizePixel = 0
+    Frame.Position = UDim2.new(0.5, 0, 0.5, 0)
+    Frame.Size = UDim2.new(0, 517, 0, 361)
+
+    Topbar.Name = "Topbar"
+    Topbar.Parent = Frame
+    Topbar.AnchorPoint = Vector2.new(0.5, 0.5)
+    Topbar.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+    Topbar.BorderSizePixel = 0
+    Topbar.Position = UDim2.new(0.499032885, 0, 0.0831024945, 0)
+    Topbar.Size = UDim2.new(0, 498, 0, 40)
+
+    TextLabel.Parent = Topbar
+    TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    TextLabel.BackgroundTransparency = 1.000
+    TextLabel.BorderSizePixel = 0
+    TextLabel.Position = UDim2.new(0.0281124506, 0, 0.174999997, 0)
+    TextLabel.Size = UDim2.new(0, 222, 0, 25)
+    TextLabel.Font = Enum.Font.Gotham
+    TextLabel.Text = "Noxious"
+    TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TextLabel.TextScaled = true
+    TextLabel.TextSize = 14.000
+    TextLabel.TextWrapped = true
+    TextLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+    Tabs.Name = "Tabs"
+    Tabs.Parent = Frame
+    Tabs.AnchorPoint = Vector2.new(0.5, 0.5)
+    Tabs.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+    Tabs.BorderSizePixel = 0
+    Tabs.Position = UDim2.new(0.16827853, 0, 0.570637107, 0)
+    Tabs.Size = UDim2.new(0, 156, 0, 296)
+
+    TabsContainer.Name = "TabsContainer"
+    TabsContainer.Parent = Tabs
+    TabsContainer.AnchorPoint = Vector2.new(0.5, 0.5)
+    TabsContainer.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    TabsContainer.BackgroundTransparency = 1.000
+    TabsContainer.BorderSizePixel = 0
+    TabsContainer.Position = UDim2.new(0.5, 0, 0.5, 0)
+    TabsContainer.Size = UDim2.new(0, 128, 0, 275)
+
+    UIListLayout.Parent = TabsContainer
+    UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+    UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+    UIListLayout.Padding = UDim.new(0, 6)
+
+    btnsBG.Name = "btnsBG"
+    btnsBG.Parent = Frame
+    btnsBG.AnchorPoint = Vector2.new(0.5, 0.5)
+    btnsBG.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+    btnsBG.BorderSizePixel = 0
+    btnsBG.Position = UDim2.new(0.659574449, 0, 0.570637107, 0)
+    btnsBG.Size = UDim2.new(0, 332, 0, 296)
+
+    local tabs = {}
+    function tabs:tab(nme)
+        local TextButton = Instance.new("TextButton")
+        local Container = Instance.new("ScrollingFrame")
+        local layputt = Instance.new("UIListLayout")
+
+        TextButton.Parent = TabsContainer
+        TextButton.AnchorPoint = Vector2.new(0.5, 0.5)
+        TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+        TextButton.BackgroundTransparency = 1.000
+        TextButton.BorderSizePixel = 0
+        TextButton.Position = UDim2.new(0.5, 0, 0.0309090912, 0)
+        TextButton.Size = UDim2.new(0, 120, 0, 17)
+        TextButton.Font = Enum.Font.Gotham
+        TextButton.Text = nme
+        TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+        TextButton.TextScaled = true
+        TextButton.TextSize = 14.000
+        TextButton.TextWrapped = true
+
+        Container.Name = "Container"
+        Container.Parent = btnsBG
+        Container.Active = true
+        Container.AnchorPoint = Vector2.new(0.5, 0.5)
+        Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+        Container.BackgroundTransparency = 1.000
+        Container.BorderColor3 = Color3.fromRGB(27, 42, 53)
+        Container.BorderSizePixel = 0
+        Container.Position = UDim2.new(0.5, 0, 0.5, 0)
+        Container.Size = UDim2.new(0, 314, 0, 277)
+        Container.ScrollBarThickness = 6
+
+        layputt.Parent = Container
+        layputt.Padding = UDim.new(0, 6)
+        
+        TextButton.MouseButton1Click:Connect(function()
+            for i, ta11b in pairs(btnsBG:GetChildren()) do
+                if ta11b:isA("ScrollingFrame") then
+                    ta11b.Visible = false
+                end
+            end
+            Container.Visible = true
+        end)
+
+        local btns = {}
+
+        function btns:label(txt)
+            local Label = Instance.new("TextLabel")
+
+            Label.Name = "Label"
+            Label.Parent = Container
+            Label.AnchorPoint = Vector2.new(0.5, 0.5)
+            Label.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            Label.BackgroundTransparency = 1.000
+            Label.BorderSizePixel = 0
+            Label.Position = UDim2.new(0.479299366, 0, 0.0324909762, 0)
+            Label.Size = UDim2.new(0, 301, 0, 18)
+            Label.Font = Enum.Font.Gotham
+            Label.Text = txt
+            Label.TextColor3 = Color3.fromRGB(255, 255, 255)
+            Label.TextScaled = true
+            Label.TextSize = 14.000
+            Label.TextWrapped = true
+            Label.TextXAlignment = Enum.TextXAlignment.Left
+        end
+
+        function btns:button(txt, cb)
+            local Button = Instance.new("ImageButton")
+            local Label = Instance.new("TextLabel")
+
+            Button.Name = "Button"
+            Button.Parent = Container
+            Button.Active = false
+            Button.AnchorPoint = Vector2.new(0.5, 0.5)
+            Button.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+            Button.BorderSizePixel = 0
+            Button.Position = UDim2.new(0.479299366, 0, 0.137184113, 0)
+            Button.Selectable = false
+            Button.Size = UDim2.new(0, 301, 0, 28)
+
+            Label.Name = "Label"
+            Label.Parent = Button
+            Label.AnchorPoint = Vector2.new(0.5, 0.5)
+            Label.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            Label.BackgroundTransparency = 1.000
+            Label.BorderSizePixel = 0
+            Label.Position = UDim2.new(0.5, 0, 0.5, 0)
+            Label.Size = UDim2.new(0, 283, 0, 18)
+            Label.Font = Enum.Font.Gotham
+            Label.Text = txt
+            Label.TextColor3 = Color3.fromRGB(255, 255, 255)
+            Label.TextScaled = true
+            Label.TextSize = 14.000
+            Label.TextWrapped = true
+            Label.TextXAlignment = Enum.TextXAlignment.Left
+
+            Button.MouseButton1Click:Connect(function()
+                pcall(function()
+                    cb()
+                end)
+            end)
+        end
+
+        function btns:toggle(txt, state, cb)
+            local Toggle = Instance.new("ImageButton")
+            local Label = Instance.new("TextLabel")
+            local col = Instance.new("Frame")
+
+            Toggle.Name = "Toggle"
+            Toggle.Parent = Container
+            Toggle.Active = false
+            Toggle.AnchorPoint = Vector2.new(0.5, 0.5)
+            Toggle.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+            Toggle.BorderSizePixel = 0
+            Toggle.Position = UDim2.new(0.479299366, 0, 0.137184113, 0)
+            Toggle.Selectable = false
+            Toggle.Size = UDim2.new(0, 301, 0, 28)
+
+            Label.Name = "Label"
+            Label.Parent = Toggle
+            Label.AnchorPoint = Vector2.new(0.5, 0.5)
+            Label.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            Label.BackgroundTransparency = 1.000
+            Label.BorderSizePixel = 0
+            Label.Position = UDim2.new(0.509966791, 0, 0.5, 0)
+            Label.Size = UDim2.new(0, 277, 0, 18)
+            Label.Font = Enum.Font.Gotham
+            Label.Text = txt
+            Label.TextColor3 = Color3.fromRGB(255, 255, 255)
+            Label.TextScaled = true
+            Label.TextSize = 14.000
+            Label.TextWrapped = true
+            Label.TextXAlignment = Enum.TextXAlignment.Left
+
+            col.Parent = Toggle
+            col.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+            col.BorderSizePixel = 0
+            col.Size = UDim2.new(0, 6, 1, 0)
+
+            if state then
+                col.BackgroundColor3 = Color3.fromRGB(0,255,0)
+            else
+                col.BackgroundColor3 = Color3.fromRGB(255,0,0)
+            end
+
+            Toggle.MouseButton1Click:Connect(function()
+                if state then
+                    state = false
+                    col.BackgroundColor3 = Color3.fromRGB(255,0,0)
+                else
+                    state = true
+                    col.BackgroundColor3 = Color3.fromRGB(0,255,0)
+                end
+
+                pcall(function()
+                    cb()
+                end)
+            end)
+
+            return state
+        end
+
+        function btns:textbox(txt, input, cb)
+            local Textbox = Instance.new("ImageButton")
+            local Input = Instance.new("TextBox")
+
+            Textbox.Name = "Textbox"
+            Textbox.Parent = Container
+            Textbox.Active = false
+            Textbox.AnchorPoint = Vector2.new(0.5, 0.5)
+            Textbox.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+            Textbox.BorderSizePixel = 0
+            Textbox.Position = UDim2.new(0.479299366, 0, 0.137184113, 0)
+            Textbox.Selectable = false
+            Textbox.Size = UDim2.new(0, 301, 0, 28)
+
+            Input.Name = "Input"
+            Input.Parent = Textbox
+            Input.Active = false
+            Input.AnchorPoint = Vector2.new(0.5, 0.5)
+            Input.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            Input.BackgroundTransparency = 1.000
+            Input.BorderSizePixel = 0
+            Input.Position = UDim2.new(0.5, 0, 0.5, 0)
+            Input.Selectable = false
+            Input.Size = UDim2.new(0, 283, 0, 18)
+            Input.Font = Enum.Font.Gotham
+            Input.PlaceholderText = txt
+            Input.Text = ""
+            Input.TextColor3 = Color3.fromRGB(255, 255, 255)
+            Input.TextScaled = true
+            Input.TextSize = 14.000
+            Input.TextWrapped = true
+            Input.TextXAlignment = Enum.TextXAlignment.Left
+
+            Input:GetPropertyChangedSignal("Text"):Connect(function()
+                pcall(function()
+                    cb()
+                end)
+            end)
+        end
+
+        return btns
+    end
+
+    return tabs
+end
+
+return libbb
